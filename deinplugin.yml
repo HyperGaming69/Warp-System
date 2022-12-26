@@ -1,21 +1,20 @@
 specVersion: 1
 type: plugin
-name: Warp Plugin
+name: Warp
 authors:
-  - HyperGaming69
+  - hypergaming69
 supportedPlatforms:
   - spigot
   - paper
 supportedGameVersions: ^1.18
 category: misc
-introduction:
-  de: Ein einfaches Warp-Plugin mit 1 neuem Befehl
-  en: A simple Warp plugin with 1 new command
-description:
-  de: |
-    Das Plugin fügt den /warp Befel hin zu.
-  en: |
-    The plugin adds the /warp command.
+introduction: 
+ de: Teleportirt dich.
+ en: Teleports you.
+description: |
+  This Plugin logs all required Events (changeable in config) to a Webhook-Link
+images:
+ - https://user-images.githubusercontent.com/77451272/209478021-eae07ff3-cf2a-41b3-9e5b-b7b8c3ba4865.png
 installation:
   de: |
     - Herunterladen der Plugin-Datei
@@ -25,5 +24,4 @@ installation:
     - Download the plugin-file
     - Put the file into your plugins-folder
     - Restart your server
-videoSources:
-  - https://youtu.be/a07YXG9GmgQ
+icon: https://i.ibb.co/tMn8H8R/Download-modified.png
