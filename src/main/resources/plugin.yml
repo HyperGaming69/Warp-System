@@ -1,0 +1,9 @@
+name: WarpPlugin
+version: '${project.version}'
+main: de.hypergaming.warpplugin.WarpPlugin
+api-version: 1.18
+authors: [ HyperGaming69 ]
+description: Hey
+
+commands:
+  warp:

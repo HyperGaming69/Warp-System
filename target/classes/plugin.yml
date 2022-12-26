@@ -1,0 +1,9 @@
+name: WarpPlugin
+version: '1.0-SNAPSHOT'
+main: de.hypergaming.warpplugin.WarpPlugin
+api-version: 1.18
+authors: [ HyperGaming69 ]
+description: Hey
+
+commands:
+  warp:

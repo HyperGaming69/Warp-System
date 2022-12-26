@@ -1,0 +1,29 @@
+specVersion: 1
+type: plugin
+name: Warp Plugin
+authors:
+  - HyperGaming69
+supportedPlatforms:
+  - spigot
+  - paper
+supportedGameVersions: ^1.18
+category: misc
+introduction:
+  de: Ein einfaches Warp-Plugin mit 1 neuem Befehl
+  en: A simple Warp plugin with 1 new command
+description:
+  de: |
+    Das Plugin fügt den /warp Befel hin zu.
+  en: |
+    The plugin adds the /warp command.
+installation:
+  de: |
+    - Herunterladen der Plugin-Datei
+    - Ablegen der Datei im Plugins-Ordner
+    - Server neustarten
+  en: |
+    - Download the plugin-file
+    - Put the file into your plugins-folder
+    - Restart your server
+videoSources:
+  - https://youtu.be/a07YXG9GmgQ

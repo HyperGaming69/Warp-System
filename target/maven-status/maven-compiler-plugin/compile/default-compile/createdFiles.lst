@@ -1,0 +1,4 @@
+de\hypergaming\warpplugin\WarpPlugin.class
+de\hypergaming\warpplugin\utils\Config.class
+de\hypergaming\warpplugin\commands\WarpCommand.class
+de\hypergaming\warpplugin\warp\WarpManager.class
